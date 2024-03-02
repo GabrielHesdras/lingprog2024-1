@@ -53,12 +53,30 @@ void q07() {
 
 //8. Faça um programa que leia dois números inteiros e imprima a
 //   subtração deles.
+void q08() {
+int subtração,num1,num2;
+printf("digite o primeiro numero:");
+scanf("%d",&num1);
+printf("digite o segundo numero:");
+scanf("%d",&num2);
+subtração=num1-num2;
+printf(" resultado de uma subtração: %d",subtração);
 
 //9. Faça um programa que leia umnúmero real e imprima ¼ deste número.
+void q09() {
+
 
 //10. Faça um programa que leia três números reais e calcule a
 //    média aritmética destes números. Ao final, o programa deve
 //    imprimir o resultado do cálculo.
+void q10() {
+real num1,numb2,media;
+printf("digite o primeiro numero:");
+scanf("%d",&num1);
+printf("digite o segundo numero:");
+scanf("%d",&
+    
+
 
 //11. Faça um programa que leia dois números reais e calcule as
 //    quatro operações básicas entre estes dois números, adição,
